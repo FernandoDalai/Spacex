@@ -9,4 +9,5 @@ In this proyect we will predict if the Falcon 9 first stage will land successful
 ## Proyect Structure
 
 1.- Data collection
+
 2.- Data Wrangling

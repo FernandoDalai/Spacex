@@ -13,3 +13,5 @@ In this proyect we will predict if the Falcon 9 first stage will land successful
 2.- Data Wrangling
 
 3.- Exploratory Analysis
+
+4.- Data Visualization

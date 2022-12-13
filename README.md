@@ -21,10 +21,15 @@ In this proyect we will predict if the Falcon 9 first stage will land successful
 ## Libraries
 
 Pandas
+
 Scikit-learn
+
 Matplotlib
+
 BeautifulSoup
+
 Requests
+
 Selenium
 
 ## Presentation

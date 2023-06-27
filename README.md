@@ -4,7 +4,7 @@ In this project we will predict if the Falcon 9 first stage will land successful
 
 **This project was part of the IBM Data Science Professional Certificate**
 
-![26405462060_6ca2e18041_o__1_banner-700x0-c-default](https://user-images.githubusercontent.com/78560278/195704852-532832ce-794d-45a5-adaf-0557237220c9.jpg)
+<div align="center"><img src="https://c.tenor.com/byI653FuZcEAAAAC/mars-rover.gif" width="498" height="292" /></div>
 
 ## Proyect Structure
 

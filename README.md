@@ -4,7 +4,7 @@ In this project we will predict if the Falcon 9 first stage will land successful
 
 **This project was part of the IBM Data Science Professional Certificate**
 
-<div align="center"><img src="https://github.com/ferdal137/SpaceX/blob/main/Templates/SpaceX.png?raw=true" width="1100" height="630" /></div>
+<div align="center"><img src="https://github.com/ferdal137/SpaceX/blob/main/Templates/SpaceX.png?raw=true" width="1100" height="580" /></div>
 
 ## Proyect Structure
 

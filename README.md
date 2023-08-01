@@ -34,5 +34,5 @@ Selenium
 
 ## Presentation
 
-[Link to the presentation](templates/SpaceX_IBM_DataScience_Presentation.pdf)
+[Link to the presentation](Templates/SpaceX_IBM_DataScience_Presentation.pdf)
 

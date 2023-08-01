@@ -33,3 +33,6 @@ Requests
 Selenium
 
 ## Presentation
+
+[Link to the presentation](templates/SpaceX_IBM_DataScience_Presentation.pdf)
+
